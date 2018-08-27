@@ -64,7 +64,7 @@ public class Calculadora extends JFrame {
     public Calculadora() {
         super();
         setSize(250, 300);
-        setTitle("Calculadora Simple");
+        setTitle("Calculadora Cientifica Ethan Oliva");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
 
